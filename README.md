@@ -11,13 +11,14 @@ Given the balance of strong recall and reasonable precision for high-risk loans,
 # Repository Structure
 
 credit-risk-classification/
-credit_risk_classification.ipynb
-README.md
-report-template.md
+
+- credit_risk_classification.ipynb
+- README.md
+- report-template.md
 
 Resources/
 
-lending_data.csv
+- lending_data.csv
 
 # Technologies Used
 
